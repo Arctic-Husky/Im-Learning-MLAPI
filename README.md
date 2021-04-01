@@ -5,6 +5,8 @@ Getting started: [MLAPI Documentation](https://mp-docs.dl.it.unity3d.com/docs/ge
 Currently following: [SRCoder's Tutorial](https://www.youtube.com/watch?v=qJMXv5J4wf4)
 
 ### Roadmap
+(Inside Projects tab)
+
 <pre>
 Step 1: Read the MLAPI Documentation
 Step 2: Watch SRCoder's Tutorial on MLAPI

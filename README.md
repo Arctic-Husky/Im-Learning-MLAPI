@@ -4,7 +4,7 @@
 
 Getting started: [MLAPI Documentation](https://mp-docs.dl.it.unity3d.com/docs/getting-started/about-mlapi)
 
-Currently following: [SRCoder's Tutorial](https://www.youtube.com/watch?v=qJMXv5J4wf4)
+Good tutorial: [SRCoder's Tutorial](https://www.youtube.com/watch?v=qJMXv5J4wf4)
 
 ### Roadmap
 (Inside Projects tab)
@@ -16,3 +16,7 @@ Step 2: Watch SRCoder's Tutorial on MLAPI
 </pre>
 
 <h2>Mirror</h2>
+
+Getting started: [Mirror Documentation](https://mirror-networking.gitbook.io/docs/general/getting-started)
+
+Good tutorial:

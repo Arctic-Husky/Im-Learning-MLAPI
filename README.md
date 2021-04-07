@@ -1,6 +1,6 @@
 # Im-Learning-Multiplayer
 
-#MLAPI
+<h2>MLAPI</h2>
 
 Getting started: [MLAPI Documentation](https://mp-docs.dl.it.unity3d.com/docs/getting-started/about-mlapi)
 
@@ -15,4 +15,4 @@ Step 2: Watch SRCoder's Tutorial on MLAPI
 <b>The MLAPI version on SRCoder's video is outdated, so when you run into code discrepancies, refer to the MLAPI Documentation.</b>
 </pre>
 
-#Mirror
+<h2>Mirror</h2>

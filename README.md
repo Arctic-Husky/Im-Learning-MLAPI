@@ -19,4 +19,4 @@ Step 2: Watch SRCoder's Tutorial on MLAPI
 
 Getting started: [Mirror Documentation](https://mirror-networking.gitbook.io/docs/general/getting-started)
 
-Good introductory tutorial:
+Decent introductory tutorial: [DapperDino's Tutorial](https://www.youtube.com/watch?v=5LhA4Tk_uvI&list=PLS6sInD7ThM1aUDj8lZrF4b4lpvejB2uB&index=1)
